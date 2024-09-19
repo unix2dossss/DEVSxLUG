@@ -393,5 +393,5 @@ You can close the terminal by typing `exit` and hitting Enter, then going to the
 ## Credits / Acknowledgments
 
 - **[Vandan Bhatt](https://github.com/unix2dossss)** - Performed all the ricing and customization.
-- **[-](https://github.com/parmjotsinghrobot)** - Rewrote the documentation neatly and comprehensively.
+- **[Parmjot Singh](https://github.com/parmjotsinghrobot)** - Rewrote the documentation neatly and comprehensively.
 - **[Jared Daniel Recomendable](https://github.com/JDCRecomendable)** - Proofread the documentation and tested the rice on UTM.
