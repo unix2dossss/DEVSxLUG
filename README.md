@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/dbb989f4-6b8d-48ac-8fad-afcbb5ef7555)# Ricing instructions for Linux workshop
+# Ricing instructions for Linux workshop
 
 Here is what our desktop will like after this:
 
