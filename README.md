@@ -363,7 +363,7 @@ cd ~/.config/glava/
 
 # Move the old files to a prefix that won't be used.
 mv bars.glsl bars.glsl-00
-mv circles.glsl circles.glsl-00
+mv rc.glsl rc.glsl-00
 ```
 
 Now, we can install our themes! (Technically they aren't themes but really it doesn't matter here).
