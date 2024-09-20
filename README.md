@@ -1,4 +1,4 @@
-# Ricing instructions for Linux workshop
+![image](https://github.com/user-attachments/assets/dbb989f4-6b8d-48ac-8fad-afcbb5ef7555)# Ricing instructions for Linux workshop
 
 Here is what our desktop will like after this:
 
@@ -163,7 +163,7 @@ Now, we're going to change the bottom bar, so it looks a little nicer, via the [
 
 ```bash
 # Install some packages needed for the plugin
-sudo apt-get install xfce4-dev-tools libxfce4ui-2-dev libxfce4panel-2.0-dev git libwnck-3-dev
+sudo apt-get install xfce4-dev-tools libxfce4ui-2-dev libxfce4panel-2.0-dev git libwnck-3-dev build-essential
 
 unzip docklike-plugin-master.zip
 
